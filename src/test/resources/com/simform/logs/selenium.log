@@ -1,20 +1,20 @@
-17:48:28,175 DEBUG devpinoyLogger:93 - Config file loaded !!!
-17:48:28,178 DEBUG devpinoyLogger:108 - OR file loaded !!!
-17:48:33,276 DEBUG devpinoyLogger:156 - Navigated to : http://www.zoho.com/
-17:48:33,730 DEBUG devpinoyLogger:185 - Clicking on an Element : loginlink_xpath
-17:48:33,731 DEBUG devpinoyLogger:199 - Typing in an Element : email_xpath entered value as : maitri.b@manifestux.com
-17:48:33,731 DEBUG devpinoyLogger:185 - Clicking on an Element : nextBtn
-17:48:33,732 DEBUG devpinoyLogger:199 - Typing in an Element : password_xpath entered value as : Psecure123
-17:48:33,732 DEBUG devpinoyLogger:185 - Clicking on an Element : signIn
-17:48:34,328 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
-17:48:34,329 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
-17:48:34,330 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-17:48:34,330 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-17:48:34,331 DEBUG cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/maitri.brahmakshatriya/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-17:48:34,555 DEBUG devpinoyLogger:185 - Clicking on an Element : crmlink_xpath
-17:48:39,648 DEBUG devpinoyLogger:185 - Clicking on an Element : accountstab_xpath
-17:48:40,334 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
-17:48:40,336 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
-17:48:40,336 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-17:48:40,336 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-17:48:40,337 DEBUG cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/maitri.brahmakshatriya/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+22:20:07,070 DEBUG devpinoyLogger:93 - Config file loaded !!!
+22:20:07,073 DEBUG devpinoyLogger:108 - OR file loaded !!!
+22:20:13,021 DEBUG devpinoyLogger:156 - Navigated to : http://www.zoho.com/
+22:20:13,447 DEBUG devpinoyLogger:185 - Clicking on an Element : loginlink_xpath
+22:20:13,449 DEBUG devpinoyLogger:199 - Typing in an Element : email_xpath entered value as : maitri.b@manifestux.com
+22:20:13,449 DEBUG devpinoyLogger:185 - Clicking on an Element : nextBtn
+22:20:13,449 DEBUG devpinoyLogger:199 - Typing in an Element : password_xpath entered value as : Psecure123
+22:20:13,449 DEBUG devpinoyLogger:185 - Clicking on an Element : signIn
+22:20:14,094 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+22:20:14,095 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+22:20:14,096 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+22:20:14,096 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+22:20:14,097 DEBUG cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/maitri.brahmakshatriya/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+22:20:14,296 DEBUG devpinoyLogger:185 - Clicking on an Element : crmlink_xpath
+22:20:19,372 DEBUG devpinoyLogger:185 - Clicking on an Element : accountstab_xpath
+22:20:19,828 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+22:20:19,829 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+22:20:19,829 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+22:20:19,829 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+22:20:19,829 DEBUG cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/maitri.brahmakshatriya/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
