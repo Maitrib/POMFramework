@@ -28,7 +28,7 @@ public class LoginTest extends BaseTest{
 //		driver.get("https://www.zoho.com/");
 //		driver.manage().window().maximize();
 //		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		
+		//test
 		HomePage home = new HomePage();
 		LoginPage lp= home.goToLogin();
 		lp.doLogin(data.get("username"), data.get("password"));
